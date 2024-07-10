@@ -1,0 +1,5 @@
+{
+  "enablePaths": ["./supabase/functions"],
+  "exclude": ["src/", "types/"],
+  "importMap": "./supabase/functions/import_map.json"
+}

@@ -1,0 +1,32 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://esm.sh/@supabase/functions-js/src/edge-runtime.d.ts": "https://esm.sh/@supabase/functions-js@2.4.1/src/edge-runtime.d.ts",
+    "https://esm.sh/@supabase/functions-js@2.4.1/src/edge-runtime.d.ts": "https://esm.sh/v135/@supabase/functions-js@2.4.1/src/edge-runtime.d.ts"
+  },
+  "remote": {},
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@element-plus/nuxt@^1.0.9",
+        "npm:@ewanmellor/brackets-viewer@^1.6.911",
+        "npm:@iconify-json/heroicons-outline@^1.1.10",
+        "npm:@iconify-json/heroicons@^1.1.20",
+        "npm:@iconify-json/mdi@^1.1.66",
+        "npm:@nuxt/content@^2.12.1",
+        "npm:@nuxt/image@^1.7.0",
+        "npm:@nuxt/ui@^2.16.0",
+        "npm:@nuxtjs/color-mode@^3.4.0",
+        "npm:@nuxtjs/mdc@^0.8.2",
+        "npm:@nuxtjs/supabase@^1.3.2",
+        "npm:@types/markdown-it@^12.2.3",
+        "npm:element-plus@^2.7.4",
+        "npm:markdown-it@^13.0.1",
+        "npm:nuxt@^3.12.1",
+        "npm:sass@^1.77.4",
+        "npm:supabase@^1.178.2",
+        "npm:typescript@^5.4.5"
+      ]
+    }
+  }
+}
